@@ -14,3 +14,7 @@ body {
     display: flex;
     justify-items: center;
 }
+
+button {
+    cursor: pointer;
+}
